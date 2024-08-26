@@ -17,3 +17,7 @@ El Sistema de Control de Inventarios para Constructora tiene como objetivo princ
 1. #### **Lenguajes de marcado y estilo:**
    - ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)Esencial para la estructura y el contenido de la página web.
    - ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) Utilizado para el diseño y la presentación visual de la página web.
+
+2.  #### **Lenguajes de programación:**
+   - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) Fundamental para agregar interactividad y dinamismo a tu sitio web. Puede ser útil para implementar funciones como formularios interactivos, animaciones, y deslizadores de imágenes, entre otros.
+   - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) Útil para el desarrollo del lado del servidor, como la gestión de formularios de contacto, bases de datos, y la generación de contenido dinámico.
