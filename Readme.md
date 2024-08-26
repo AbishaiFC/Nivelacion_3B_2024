@@ -12,3 +12,8 @@ El Sistema de Control de Inventarios para Constructora tiene como objetivo princ
 |Abril Guzman Barrera|[@Abrilgb](https://github.com/Abrilgb)|Documentación|❌No ha Revisado|
 |Edgar Cabrera Velázquez |[@Edgar-Cbr](https://github.com/Edgar-Cbr)|Documentación |✅ Revisado y Aprobado|
 |Diego Salvador Tecorralco Martinez |[@DiegoTecorralco](https://github.com/DiegoTecorralco)|Documentación|✅ Revisado y aprobado.|
+
+## **Lista de tecnologias**
+1. #### **Lenguajes de marcado y estilo:**
+   - ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)Esencial para la estructura y el contenido de la página web.
+   - ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) Utilizado para el diseño y la presentación visual de la página web.
