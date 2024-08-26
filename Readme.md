@@ -29,6 +29,9 @@ los puntos a tratar son:
 ## Problemática
 La constructora presenta conflictos en la gestión de inventarios debido a la falta de un sistema integral y eficiente, lo que provoca desabastecimientos y retrasos en los proyectos, así como exceso de stock que inmoviliza capital y genera costos innecesarios. La planificación de compras se ve afectada por datos desactualizados, y la gestión manual del inventario aumenta el riesgo de errores y fraudes. Todo esto impacta negativamente en la rentabilidad y competitividad de la empresa, haciendo urgente la implementación de un sistema de control de inventarios.
 
+## Propuesta de solución
+Actualmente, nuestra constructora enfrenta serios problemas con la gestión de inventarios: desabastecimientos imprevistos, exceso de stock que inmoviliza capital, y datos desactualizados que complican la planificación de compras. Todo esto está afectando nuestra rentabilidad y competitividad. Para resolver estos problemas, proponemos implementar un sistema integral de gestión de inventarios. Este sistema nos dará una visión clara y actualizada del inventario, mejorará la planificación de compras y reducirá los errores y fraudes. Además, capacitaremos a nuestro equipo para que se adapte fácilmente al nuevo sistema y nos aseguraremos de que se integre con nuestras herramientas actuales. Con esta solución, esperamos no solo mejorar nuestra eficiencia y rentabilidad, sino también fortalecer nuestra posición en el mercado.
+
 ## Equipo de Desarrollo
 
 |Integrante|Contacto|Rol|Observaciones|
