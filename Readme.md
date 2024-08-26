@@ -34,7 +34,7 @@ La constructora presenta conflictos en la gestión de inventarios debido a la fa
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
 |Abishai Flores Campos|[@AbishaiFC](https://github.com/AbishaiFC)|Líder de Frontend|Faltan Partes del Documento|
-|Antonio Ocpaco Dolores|[@ANTONIOOCPACODOLORES](https://github.com/ANTONIOOCPACODOLORES)|Líder de Backend|❌No ha Revisado|
+|Antonio Ocpaco Dolores|[@ANTONIOOCPACODOLORES](https://github.com/ANTONIOOCPACODOLORES)|Líder de Backend|✅Revisado y Aprobado|
 |Juvenal Viveros Martínez|[@Juvenal-Viveros](https://github.com/)|Líder de Base de Datos|❌No ha Revisado|
 |Abril Guzman Barrera|[@Abrilgb](https://github.com/Abrilgb)|Documentación|✅ Revisado y aprobado.|
 |Edgar Cabrera Velázquez |[@Edgar-Cbr](https://github.com/Edgar-Cbr)|Documentación |✅ Revisado y Aprobado|
