@@ -3,7 +3,11 @@
 ## Descripcion
 
 El Sistema de Control de Inventarios para Constructora tiene como objetivo principal desarrollar una herramienta integral que facilite la gestión eficiente de materiales, herramientas y equipos necesarios para los proyectos de construcción. Este sistema permitirá a la constructora realizar un seguimiento en tiempo real del inventario, optimizar la planificación de compras y garantizar que los recursos estén disponibles cuando se requieran, reduciendo el riesgo de desabastecimiento o exceso de stock.
+<<<<<<< HEAD
 ## Objetivo General
+=======
+# Objetivo General
+>>>>>>> origin/Abishai
 Para una constructora, el objetivo general de un sistema de control de inventarios es gestionar de manera eficiente los materiales y equipos necesarios para llevar a cabo los proyectos de construcción.
 
 los puntos a tratar son: 
@@ -66,4 +70,7 @@ Actualmente, nuestra constructora enfrenta serios problemas con la gestión de i
       - Herramientas de diseño que te permiten crear prototipos de la interfaz de usuario y diseñar el aspecto visual de tu sitio web.
    - ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
       - Herramientas de control de versiones que facilitan la colaboración en el desarrollo del sitio web y la gestión de código fuente.
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/Abishai
