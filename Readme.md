@@ -20,12 +20,17 @@ los puntos a tratar son:
 5.-**Control de Inventario en Sitio y Almacén:**
 
 **Verificación Física:** Realizar auditorías periódicas y conteos físicos de inventario tanto en el almacén central como en los sitios de construcción para asegurar la precisión de los registros.
-
 **Gestión de Almacenamiento:** Implementar prácticas eficientes de almacenamiento y manejo de inventarios para facilitar el acceso y minimizar el riesgo de deterioro o pérdida.
+
+
+
 
 
 ## Problemática
 La constructora presenta conflictos en la gestión de inventarios debido a la falta de un sistema integral y eficiente, lo que provoca desabastecimientos y retrasos en los proyectos, así como exceso de stock que inmoviliza capital y genera costos innecesarios. La planificación de compras se ve afectada por datos desactualizados, y la gestión manual del inventario aumenta el riesgo de errores y fraudes. Todo esto impacta negativamente en la rentabilidad y competitividad de la empresa, haciendo urgente la implementación de un sistema de control de inventarios.
+
+## Propuesta de solución
+Actualmente, nuestra constructora enfrenta serios problemas con la gestión de inventarios: desabastecimientos imprevistos, exceso de stock que inmoviliza capital, y datos desactualizados que complican la planificación de compras. Todo esto está afectando nuestra rentabilidad y competitividad. Para resolver estos problemas, proponemos implementar un sistema integral de gestión de inventarios. Este sistema nos dará una visión clara y actualizada del inventario, mejorará la planificación de compras y reducirá los errores y fraudes. Además, capacitaremos a nuestro equipo para que se adapte fácilmente al nuevo sistema y nos aseguraremos de que se integre con nuestras herramientas actuales. Con esta solución, esperamos no solo mejorar nuestra eficiencia y rentabilidad, sino también fortalecer nuestra posición en el mercado.
 
 ## Equipo de Desarrollo
 
@@ -33,7 +38,7 @@ La constructora presenta conflictos en la gestión de inventarios debido a la fa
 |------------|--------|---|---|
 |Abishai Flores Campos|[@AbishaiFC](https://github.com/AbishaiFC)|Líder de Frontend|Faltan Partes del Documento|
 |Antonio Ocpaco Dolores|[@ANTONIOOCPACODOLORES](https://github.com/ANTONIOOCPACODOLORES)|Líder de Backend|✅Revisado y Aprobado|
-|Juvenal Viveros Martínez|[@Juvenal-Viveros](https://github.com/)|Líder de Base de Datos|❌No ha Revisado|
+|Juvenal Viveros Martínez|[@Juvenal-Viveros](https://github.com/Juvenal-Viveros)|Líder de Base de Datos|❌No ha Revisado|
 |Abril Guzman Barrera|[@Abrilgb](https://github.com/Abrilgb)|Documentación|✅ Revisado y aprobado.|
 |Edgar Cabrera Velázquez |[@Edgar-Cbr](https://github.com/Edgar-Cbr)|Documentación |✅ Revisado y Aprobado|
 |Diego Salvador Tecorralco Martinez |[@DiegoTecorralco](https://github.com/DiegoTecorralco)|Documentación|✅ Revisado y aprobado.|
@@ -61,5 +66,3 @@ La constructora presenta conflictos en la gestión de inventarios debido a la fa
       - Herramientas de diseño que te permiten crear prototipos de la interfaz de usuario y diseñar el aspecto visual de tu sitio web.
    - ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
       - Herramientas de control de versiones que facilitan la colaboración en el desarrollo del sitio web y la gestión de código fuente.
-
-   - ![Adobe Ilustraitor](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
