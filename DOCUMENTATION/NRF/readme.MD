@@ -11,4 +11,4 @@ Aqui se encuentra el archivo que contiene los requerimientos no funcionales de l
 |Juvenal Viveros Martínez|[@Juvenal-Viveros](https://github.com/)|Líder de Base de Datos|❌No ha Revisado|
 |Abril Guzman Barrera|[@Abrilgb](https://github.com/Abrilgb)|Documentación|❌No ha Revisado|
 |Edgar Cabrera Velázquez |[@Edgar-Cbr](https://github.com/Edgar-Cbr)|Documentación |✅ Revisado y Aprobado|
-|Diego Salvador Tecorralco Martinez |[@DiegoTecorralco](https://github.com/DiegoTecorralco)|Documentación|❌No ha Revisado|
+|Diego Salvador Tecorralco Martinez |[@DiegoTecorralco](https://github.com/DiegoTecorralco)|Documentación|✅ Revisado y Aprobado|
