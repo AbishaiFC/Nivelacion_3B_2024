@@ -24,7 +24,7 @@ El Sistema de Control de Inventarios para Constructora tiene como objetivo princ
 
 3. #### **Bases de datos:**
    - ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) Sistema de gestión de bases de datos relacional ampliamente utilizado.
-   - 
+     
 4. #### **Herramientas de diseño y desarrollo:**
    - ![Adobe Ilustraitor](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) Herramientas de diseño que te permiten crear prototipos de la interfaz de usuario y diseñar el aspecto visual de tu sitio web.
    - ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) Herramientas de control de versiones que facilitan la colaboración en el desarrollo del sitio web y la gestión de código fuente.
