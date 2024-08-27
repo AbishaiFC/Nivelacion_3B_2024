@@ -1,4 +1,4 @@
-## ![alt text](image.png)https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+## ![alt text](image.png)
 
 En este apartado encontraras los Aspectos Tecnicos como por ejemplo:
 
